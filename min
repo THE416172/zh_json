@@ -1,0 +1,351 @@
+{
+
+"recover": "[1]&#x6269;&#x5927;&#x5F71;&#x54CD;&#x529B;[2]&#x70B9;",
+
+"sklAbsorb": "[0]&#x53D1;&#x52A8;[&#x6279;&#x6597;&#x4F1A;]",
+
+"sklAccumulate": "[0]&#x5F00;&#x59CB;[&#x51C6;&#x5907;&#x6750;&#x6599;]",
+
+"sklAccumulated": "[1]&#x6D3E;&#x7CFB;&#x7EC4;&#x7EC7;&#x5EA6;&#x63D0;&#x9AD8;",
+
+"sklAccumulateCancel": "[1]&#x7684;[&#x6750;&#x6599;]&#x906D;&#x5230;&#x6279;&#x9A73;",
+
+"sklAssassinate1": "[0]&#x5F00;&#x59CB;[&#x79D8;&#x5BC6;]&#x51C6;&#x5907;&#x5BF9;[1]&#x7684;&#x6B66;&#x88C5;&#x6D88;&#x706D;",
+
+"sklAssassinate2": "[0]&#x8D34;&#x51FA;&#x4E86;&#x5927;&#x529B;&#x6279;&#x5224;&#x7684;[&#x5927;&#x5B57;&#x62A5;]&#xFF0C;&#x5E76;&#x4E14;&#x5927;&#x91CF;&#x6B66;&#x88C5;&#x4EBA;&#x5458;&#x53D1;&#x8D77;&#x8FDB;&#x653B;",
+
+"dodge": "[0]&#x9488;&#x950B;&#x76F8;&#x5BF9;&#x7684;&#x56DE;&#x5E94;&#x4E86;[&#x6279;&#x5224;]",
+
+"sklAssassinateFailed": "[0][&#x79D8;&#x5BC6;&#x6B66;&#x6597;]&#x7684;&#x884C;&#x52A8;&#x66B4;&#x9732;&#x4E86;",
+
+"sklBerserkEnd": "[1]&#x7ED3;&#x675F;&#x4E86;[&#x8FA9;&#x8BBA;]",
+
+"sklBerserkAttack": "[0]&#x5F00;&#x59CB;[&#x9A73;&#x8BBA;]",
+
+"sklBerserkHit": "[1]&#x8FDB;&#x5165;[&#x8FA9;&#x8BBA;&#x4F1A;]",
+
+"sklBerserk": "[0]&#x53D1;&#x8D77;[&#x8FA9;&#x8BBA;]",
+
+"sklCharge": "[0]&#x5F00;&#x59CB;[&#x51C6;&#x5907;&#x529B;&#x91CF;]",
+
+"sklChargeCancel": "[1]&#x915D;&#x917F;&#x7684;[&#x6279;&#x6597;&#x4F1A;]&#x88AB;&#x5148;&#x53D1;&#x5236;&#x4EBA;",
+
+"sklCharmEnd": "[1]&#x6062;&#x590D;&#x4E86;[&#x6D3E;&#x7CFB;&#x7EC4;&#x7EC7;]",
+
+"sklCharm": "[0]&#x5F00;&#x5C55;[&#x7406;&#x8BBA;&#x8FA9;&#x8BBA;]",
+
+"sklCharmHit": "[1]&#x5F00;&#x59CB;[&#x6DF7;&#x4E71;]",
+
+"sklClone": "[0][&#x6210;&#x7ACB;&#x652F;&#x90E8;]",
+
+"sklCloned": "&#x51FA;&#x73B0;&#x4E00;&#x4E2A;[1]&#x7684;&#x652F;&#x90E8;",
+
+"sklCritical": "[0]&#x8D34;&#x51FA;[&#x5927;&#x5B57;&#x62A5;]",
+
+"sklCurseDamage": "[&#x515A;&#x5185;&#x652F;&#x6301;]&#x964D;&#x4F4E;&#x66F4;&#x591A;&#x5F71;&#x54CD;&#x529B;",
+
+"sklCurseEnd": "[1]&#x4E0E;[&#x515A;&#x5185;&#x52BF;&#x529B;]&#x59A5;&#x534F;",
+
+"sklCurseHit": "[1]&#x906D;&#x5230;[&#x515A;&#x5185;&#x52BF;&#x529B;]&#x53CD;&#x5BF9;",
+
+"sklCurse": "[0]&#x4E89;&#x53D6;[&#x515A;&#x5185;&#x652F;&#x6301;]",
+
+"sklDisperse": "[0]&#x5728;[&#x6BDB;&#x4E3B;&#x5E2D;&#x7684;&#x65D7;&#x5E1C;&#x4E0B;]&#x5BF9;[1]&#x5C55;&#x5F00;&#x6279;&#x5224;",
+
+"sklExchange": "[0]&#x5F00;&#x59CB;[&#x5927;&#x6279;&#x6597;&#x5927;&#x8FA9;&#x8BBA;]",
+
+"sklExchanged": "[1]&#x7684;&#x5F71;&#x54CD;&#x529B;&#x5927;&#x5E45;&#x4E0B;&#x964D;&#xFF0C;&#x800C;[0]&#x58F0;&#x540D;&#x5927;&#x566A;",
+
+"sklFire": "[0][&#x53D1;&#x52A8;&#x7FA4;&#x4F17;]&#x51B2;&#x51FB;&#x5F02;&#x89C1;&#x8005;",
+
+"sklHalf": "[0]&#x593A;&#x53D6;&#x89E3;&#x653E;&#x519B;&#x6B66;&#x88C5;&#xFF0C;[&#x6B66;&#x88C5;&#x51B2;&#x51FB;]&#x5F02;&#x89C1;&#x8005;",
+
+"sklHalfDamage": "[1]&#x5F71;&#x54CD;&#x529B;&#x5927;&#x5E45;&#x51CF;&#x5C11;",
+
+"sklHasteEnd": "[1]&#x5B8C;&#x6210;[&#x6D3E;&#x7CFB;&#x6574;&#x987F;]",
+
+"sklHaste": "[0]&#x5BC6;&#x5BA3;[&#x91CD;&#x6574;&#x65D7;&#x9F13;]",
+
+"sklHasteHit": "[1]&#x6574;&#x987F;[&#x5185;&#x90E8;&#x60C5;&#x51B5;]",
+
+"sklHeal": "[0][&#x4E89;&#x53D6;&#x7FA4;&#x4F17;&#x652F;&#x6301;]",
+
+"sklIceEnd": "[1]&#x4ECE;[&#x5C01;&#x9501;]&#x4E2D;&#x89E3;&#x9664;",
+
+"sklIceHit": "[1]&#x88AB;[&#x5C01;&#x9501;]&#x4E86;",
+
+"sklIce": "[0]&#x53D1;&#x52A8;&#x7FA4;&#x4F17;[&#x56F4;&#x5835;]&#x5F02;&#x89C1;&#x8005;&#x6D3B;&#x52A8;&#x5730;",
+
+"sklIron": "[0]&#x53D1;&#x8868;[&#x793E;&#x8BBA;]",
+
+"sklIrond": "[0]&#x5BF9;&#x6279;&#x5224;&#x7684;&#x53CD;&#x5E94;&#x80FD;&#x529B;&#x5927;&#x5E45;&#x4E0A;&#x5347;",
+
+"sklIronCancel": "[1]&#x7684;[&#x793E;&#x8BBA;]&#x88AB;&#x9A73;&#x5012;&#x4E86;",
+
+"sklIronEnd": "[0]&#x7684;[&#x793E;&#x8BBA;]&#x5F71;&#x54CD;&#x529B;&#x51CF;&#x5C0F;",
+
+"sklPoisonDamage": "&#x7FA4;&#x4F17;[1]&#x7684;&#x4E0D;&#x6EE1;[&#x7206;&#x53D1;]",
+
+"sklPoisonEnd": "[1][&#x63ED;&#x53D1;&#x6750;&#x6599;]&#x7684;&#x5F71;&#x54CD;&#x6682;&#x65F6;&#x6D88;&#x5931;",
+
+"sklPoisonHit": "&#x7FA4;&#x4F17;&#x5F00;&#x59CB;&#x5BF9;[1][&#x4E0D;&#x6EE1;]",
+
+"sklPoison": "[0]&#x8D34;&#x51FA;[&#x63ED;&#x53D1;&#x6750;&#x6599;]",
+
+"sklQuake": "[0]&#x540C;&#x65F6;&#x53D1;&#x8D77;&#x5BF9;&#x591A;&#x4E2A;&#x6D3E;&#x7CFB;&#x7684;[&#x6279;&#x5224;]",
+
+"SklRapid": "[0]&#x5F00;&#x59CB;&#x6279;&#x5224;",
+
+"SklRapidNext": "[0]&#x6269;&#x5927;[&#x6279;&#x5224;&#x5BF9;&#x8C61;]",
+
+"sklRevive": "[0]&#x91CD;&#x65B0;&#x53EC;&#x96C6;&#x53CB;&#x65B9;&#x6D3E;&#x7CFB;[&#x9AA8;&#x5E72;&#x6210;&#x5458;]",
+
+"sklRevived": "[1]&#x91CD;&#x65B0;[&#x4EA7;&#x751F;&#x5F71;&#x54CD;]",
+
+"sklPossess": "[0]&#x7528;&#x5BA3;&#x4F20;&#x529B;&#x91CF;&#x8FDB;&#x884C;[&#x5185;&#x90E8;&#x7834;&#x574F;]",
+
+"sklShadow": "[0]&#x5EFA;&#x7ACB;[&#x5BA3;&#x4F20;&#x90E8;]",
+
+"sklShadowName": "publicitydepartment",
+
+"sklShadowed": "&#x5EFA;&#x7ACB;[1]",
+
+"sklSlowEnd": "[1]&#x4ECE;[&#x5E72;&#x6270;]&#x4E2D;&#x89E3;&#x9664;",
+
+"sklSlow": "[0]&#x5BF9;&#x5F02;&#x89C1;&#x8005;[&#x8FDB;&#x884C;&#x5E72;&#x6270;]",
+
+"sklSlowHit": "[1]&#x6D3B;&#x52A8;&#x53D7;&#x5230;[&#x5E72;&#x6270;]",
+
+"sklExplode": "[0]&#x53D1;&#x8D77;[&#x6B66;&#x6597;]",
+
+"sklSummon": "[0]&#x7EC4;&#x5EFA;&#x6D3E;&#x7CFB;&#x7684;[&#x7EA2;&#x536B;&#x5175;]",
+
+"sklSummonName": "redguard",
+
+"sklSummoned": "&#x5EFA;&#x7ACB;[1]",
+
+"sklThunder": "[0]&#x5BF9;&#x5F02;&#x89C1;&#x8005;&#x53D1;&#x52A8;&#x731B;&#x70C8;&#x7684;[&#x6279;&#x5224;]",
+
+"sklThunderEnd": "[0][&#x9488;&#x950B;&#x76F8;&#x5BF9;&#x7684;]&#x53CD;&#x9A73;&#x4E86;&#x906D;&#x5230;&#x4E86;&#x6279;&#x5224;",
+
+"benchmarking": "&#x5B9E;&#x529B;&#x8BC4;&#x4F30;&#x4E2D;...[2]%",
+
+"benchmarkRatio": "&#x300B; &#x80DC;&#x7387;: [2]%",
+
+"benchmarkScore": "&#x300B; &#x5B9E;&#x529B;&#x8BC4;&#x5206;: [2]",
+
+"benchmarkSkill": "&#x9891;&#x7387;: [2]%",
+
+"searchInvalid": "&#x9519;&#x8BEF;&#xFF0C;&#x76EE;&#x524D;&#x6700;&#x591A;&#x652F;&#x6301;8000&#x4EBA;&#x641C;&#x7D22;",
+
+"searchStart": "&#x641C;&#x7D22;&#x5F00;&#x59CB;...",
+
+"searchEnd": "&#x641C;&#x7D22;&#x7ED3;&#x675F;",
+
+"searchFailed": "&#x4F46;&#x662F;&#x4E00;&#x65E0;&#x6240;&#x83B7;",
+
+"bossName_aokiji": "Xushiyou",
+
+"sklAokijiDefend": "[0]&#x53CD;&#x5236;&#x4E86;&#x5C01;&#x9501;",
+
+"sklAokijiIceAge": "[0][&#x538B;&#x5236;&#x7FA4;&#x4F17;&#x6D3E;&#x7CFB;]",
+
+"bossName_conan": "capitalist",
+
+"sklConanKillUnknown": "[0]&#x5728;&#x53D1;&#x73B0;&#x4E86;&#x5927;&#x91CF;&#x5C38;&#x4F53;",
+
+"sklConanThinking": "[0]&#x6B63;&#x5728;&#x8FDB;&#x884C;&#x63A8;&#x7406;",
+
+"sklConanThinkingFinish": "[0]&#x63A8;&#x7406;&#x5B8C;&#x6BD5;",
+
+"sklConanThinkingFinish2": "&#x544A;&#x8BC9;&#x4F60;&#x4EEC;",
+
+"sklConanThinkingFinish3": "&#x8FD9;&#x5C31;&#x662F;&#x5171;&#x4EA7;&#x4E3B;&#x4E49;&#x7684;&#x7F6A;&#x6076;",
+
+"sklConanKillLast": "[1]",
+
+"sklConanKill": "[0]&#x8150;&#x5316;&#x4E86;[1]&#x7684;&#x601D;&#x60F3;",
+
+"bossName_covid": "covid19",
+
+"sklCovidDamage": "[1]&#x5185;&#x90E8;[&#x80BA;&#x708E;]&#x5927;&#x8086;&#x4F20;&#x64AD;",
+
+"sklCovidICU": "[1]&#x9886;&#x5BFC;&#x4EBA;&#x5458;&#x5728;&#x91CD;&#x75C7;&#x76D1;&#x62A4;&#x5BA4;&#x65E0;&#x6CD5;&#x884C;&#x52A8;",
+
+"sklCovidStayHome": "[1]&#x6210;&#x5458;&#x906D;&#x5230;&#x9694;&#x79BB;",
+
+"sklCovidInfect": "[0]&#x548C;[1]&#x4F1A;&#x8C08;",
+
+"sklCovidPrevent": "&#x4F46;[1]&#x5185;&#x90E8;&#x6CA1;&#x88AB;&#x611F;&#x67D3;",
+
+"sklAttack": "[0]&#x53D1;&#x8D77;&#x6279;&#x5224;",
+
+"sklCovidMutate": "[1]&#x6210;&#x5458;&#x6240;&#x611F;&#x67D3;&#x7684;&#x75C5;&#x6BD2;&#x53D1;&#x751F;&#x53D8;&#x5F02;",
+
+"sklCovidHit": "[1]&#x6210;&#x5458;&#x611F;&#x67D3;&#x4E86;[&#x65B0;&#x51A0;&#x75C5;&#x6BD2;]",
+
+"bossName_ikaruga": "linbiao",
+
+"sklIkarugaDefend": "[0][&#x5229;&#x7528;&#x519B;&#x961F;&#x529B;&#x91CF;]&#x5316;&#x89E3;&#x4E86;&#x6279;&#x5224;&#xFF0C;&#x5F71;&#x54CD;&#x529B;&#x4E0A;&#x5347;",
+
+"sklIkarugaAttack": "[0]&#x5229;&#x7528;[&#x519B;&#x961F;&#x51B2;&#x51FB;&#x5F02;&#x89C1;&#x8005;]",
+
+"bossName_lazy": "Xiaoping",
+
+"sklLazyDamage": "[1]&#x88AB;[&#x771F;&#x7406;&#x6807;&#x51C6;]&#x8FF7;&#x60D1;",
+
+"sklLazySkipTurn1": "[0]&#x611F;&#x5230;&#x8FF7;&#x832B;",
+
+"sklLazySkipTurn2": "[0]&#x611F;&#x5230;&#x79BB;&#x8C31;",
+
+"sklLazySkipTurn3": "[0]&#x8BA4;&#x4E3A;&#x9189;&#x7FC1;&#x4E4B;&#x610F;&#x4E0D;&#x5728;&#x9152;",
+
+"sklLazySkipTurn4": "[0]&#x611F;&#x5230;&#x4E0D;&#x5BF9;&#x52B2;",
+
+"sklLazySkipTurn5": "[0]&#x51C6;&#x5907;&#x53CD;&#x9A73;",
+
+"sklLazySkipTurn6": "[0]&#x660E;&#x767D;&#x4E86;&#x5176;&#x9669;&#x6076;&#x7528;&#x5FC3;",
+
+"sklLazySkipTurn0": "&#x4EC0;&#x4E48;&#x90FD;&#x4E0D;&#x505A;",
+
+"sklLazyHit": "[1]&#x6536;&#x5230;&#x4E86;[&#x771F;&#x7406;&#x6807;&#x51C6;]&#x5927;&#x8BA8;&#x8BBA;&#x901A;&#x77E5;",
+
+"bossName_mario": "Liushaoqi",
+
+"bossMarioGrow10": "[0]&#x5F97;&#x5230;[&#x72D7;&#x8089;&#x6C64;]",
+
+"bossMarioGrow11": "[0]&#x6279;&#x5224;&#x529B;&#x4E0A;&#x5347;",
+
+"bossMarioGrow20": "[0]&#x5F97;&#x5230;[&#x6843;&#x56ED;&#x7ECF;&#x9A8C;]",
+
+"bossMarioGrow21": "[0]&#x5B66;&#x4F1A;[&#x6574;&#x4EBA;]",
+
+"bossMarioGrow30": "[0]&#x5411;&#x6BDB;&#x4E3B;&#x5E2D;[&#x8BA4;&#x9519;]",
+
+"bossMarioLife": "[0]&#x8FD8;&#x5269;[2]&#x6761;&#x547D;",
+
+"bossMarioRevive": "[0]&#x6EE1;&#x8840;&#x590D;&#x6D3B;",
+
+"bossName_mosquito": "Jiangjieshi",
+
+"bossName_saitama": "Weiguoqing",
+
+"saitamaHungry": "[0]&#x5403;&#x9971;&#x4E86;",
+
+"saitamaLeave": "[0]&#x88AB;&#x6279;&#x5012;&#x4E86;",
+
+"bossName_slime": "tanlifu",
+
+"sklSlimeSpawn": "[0][&#x6539;&#x5934;&#x6362;&#x9762;]",
+
+"sklSlimeSpawned": "&#x5BA3;&#x4F20;&#x754C;&#x51FA;&#x73B0;&#x4E86;[0] &#x548C;  [1]",
+
+"bossName_sonic": "Huaguofeng",
+
+"bossName_yuri": "Yuri",
+
+"sklYuriControl": "[0]&#x4F7F;&#x7528;[&#x5FC3;&#x7075;&#x63A7;&#x5236;]",
+
+"endMessage": "&#x4F60;&#x5DF2;&#x7ECF;&#x73A9;&#x4E86;[0]&#x5C40;&#x4E86;",
+
+"continueGame": "&#x7EE7;&#x7EED;&#x6E38;&#x620F;",
+
+"navigationLink": "navigation.html",
+
+"errorMaxPlayer": "&#x9519;&#x8BEF;&#xFF0C;&#x76EE;&#x524D;&#x6700;&#x591A;&#x652F;&#x6301;1000&#x4EBA;PK",
+
+"errorMinPlayer": "&#x9519;&#x8BEF;&#xFF0C;&#x8BF7;&#x81F3;&#x5C11;&#x8F93;&#x5165;&#x4E24;&#x884C;&#x540D;&#x5B57;",
+
+"welcome": "GPCR",
+
+"welcome2": "(longliveMaoist!)",
+
+"winnerName": "winner",
+
+"score": "score",
+
+"killedCount": "destroy",
+
+"killerName": "strikeadeadlyblow",
+
+"loserName": "destroyed",
+
+"returnTitle": "back",
+
+"shareTitle": "share",
+
+"helpTitle": "help",
+
+"HP": "influence",
+
+"detail": " &#x7406;&#x8BBA;&#x6C34;&#x5E73;&#x200A;[] &#x5E94;&#x5BF9;&#x80FD;&#x529B;&#x200A;[] &#x53CD;&#x5E94;&#x901F;&#x5EA6;&#x200A;[] &#x903B;&#x8F91;&#x80FD;&#x529B;&#x200A;[] &#x6B66;&#x88C5;&#x529B;&#x91CF;&#x200A;[] &#x5BF9;&#x6297;&#x80FD;&#x529B;&#x200A;[] &#x6307;&#x6325;&#x80FD;&#x529B;&#x200A;[]",
+
+"inputTitle": "Culturalrevolution",
+
+"inputPlaceholder": "ready?",
+
+"startFight": "firetocommader",
+
+"closeTitle": "close",
+
+"fastTitle": "&#x5FEB;&#x8FDB;",
+
+"challengeLabel": "&#x6311;&#x6218;Boss",
+
+"selectBossHint": "&#x9009;&#x62E9;Boss",
+
+"win": "[2]&#x83B7;&#x5F97;&#x4E86;&#x65E0;&#x4EA7;&#x9636;&#x7EA7;&#x6587;&#x5316;&#x5927;&#x9769;&#x547D;&#x7684;&#x6700;&#x7EC8;&#x80DC;&#x5229;",
+
+"minionDie": "[1]&#x89E3;&#x6563;&#x4E86;",
+
+"damage": "[1]&#x5F71;&#x54CD;&#x529B;&#x964D;&#x4F4E;[2]",
+
+"die": "[1]&#x5931;&#x53BB;&#x4E86;&#x7FA4;&#x4F17;&#x57FA;&#x7840;&#x3002;",
+
+"sklMagicAttack": "[0]&#x53D1;&#x52A8;&#x7FA4;&#x4F17;&#x6B66;&#x88C5;&#x51B2;&#x51FB;",
+
+"sklCounter": "[0]&#x53D1;&#x8D77;[&#x53CD;&#x51FB;]",
+
+"defend": "[0][&#x56DE;&#x5E94;]&#x4E86;&#x6279;&#x5224;",
+
+"sklHide": "[0][&#x9690;&#x533F;]&#x81EA;&#x8EAB;&#x6D3B;&#x52A8;",
+
+"sklMerge": "[0][&#x5438;&#x53D6;]&#x4E86;[1]&#x7684;&#x6597;&#x4E89;&#x7ECF;&#x9A8C;",
+
+"sklMerged": "[0]&#x5C5E;&#x6027;&#x4E0A;&#x5347;",
+
+"sklProtect": "[0]&#x4E3A;[1]&#x5438;&#x5F15;&#x6279;&#x5224;&#x706B;&#x529B;",
+
+"sklReflect": "[0][&#x53CD;&#x5C06;&#x4E00;&#x519B;]",
+
+"sklReraise": "[0]&#x7531;&#x4E8E;&#x8868;&#x793A;[&#x6C38;&#x4E0D;&#x7FFB;&#x6848;]&#x6682;&#x65F6;&#x7A33;&#x4F4F;&#x4E86;&#x7FA4;&#x4F17;",
+
+"sklUpgrade": "[0]&#x505A;&#x51FA;[&#x5782;&#x6B7B;]&#x6297;&#x4E89;",
+
+"sklUpgraded": "[0]&#x6240;&#x6709;&#x5C5E;&#x6027;&#x4E0A;&#x5347;",
+
+"sklUpgradeCancel": "[1]&#x7684;[&#x5782;&#x6B7B;&#x6323;&#x624E;]&#x88AB;&#x7C89;&#x788E;",
+
+"sklZombieName": "Golem",
+
+"sklZombie": "[0][&#x6276;&#x6301;&#x5080;&#x5121;&#x6D3E;&#x7CFB;]",
+
+"sklZombied": "[2]&#x53D8;&#x6210;&#x4E86;[1]",
+
+"weaponDeathNoteAtk": "[0]&#x5728;[&#x6B7B;&#x4EA1;&#x7B14;&#x8BB0;]&#x5199;&#x4E0B;[1]&#xFF0C;&#x63D0;&#x4F9B;&#x7ED9;&#x4E86;&#x82CF;&#x8054;&#x514B;&#x683C;&#x52C3;",
+
+"weaponRModifierUse": "[0]&#x4F7F;&#x7528;[&#x5C5E;&#x6027;&#x4FEE;&#x6539;&#x5668;]",
+
+"weaponS11_0": "[0]&#x4ECE;&#x56FD;&#x5916;[&#x8D2D;&#x4E70;]&#x4E86;&#x6B66;&#x5668;",
+
+"weaponS11_1": "&#x4F46;&#x662F;&#x5E76;&#x6CA1;&#x6709;&#x4EC0;&#x4E48;&#x7528;",
+
+"weaponS11_2": "&#x589E;&#x52A0;&#x4E86;[2]",
+
+"weaponS11Done1": "[0]&#x906D;&#x5230;&#x6279;&#x6597;",
+
+"weaponS11Done3": "[0]&#x5750;&#x4E86;&#x55B7;&#x6C14;&#x5F0F;",
+
+"weaponS11Done2": "[0]&#x8DEA;&#x73BB;&#x7483;&#x6E23;&#x5B50;"
+
+}
